@@ -1,0 +1,35 @@
+/* sign up  */
+
+h5.card-header.bg-success.text-white.text-center.py-4 {
+    margin: 0 -16px;
+    }
+    i.fas.fa-user {
+    padding-right: 10px;
+    font-size: 21px;
+    
+}
+label {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+
+login style
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: solid 1px #dad2d2;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
